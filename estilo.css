@@ -14,3 +14,30 @@ li{
 display: inline-block;
 margin: 10px;
 }
+table{
+    background-color: azure;
+    font-size: 20px;
+}
+th{
+width: 80px;
+background-color: black;
+color: beige;
+}
+td{
+background-color: bisque;
+
+}
+table caption{
+    font-weight: bolder;
+    font-size: 40px;
+}
+#rodape{
+    float: left;
+    font-size: 20px;
+    width: 30%;
+    background-color: cadetblue;
+}
+#conteudo{
+    float: left;
+    width: 70%;
+}
